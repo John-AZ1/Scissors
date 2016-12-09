@@ -1,0 +1,19 @@
+{
+  "name": "scissors",
+  "version": "1.0.0",
+  "description": "Scissors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-AZ1/Scissors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/John-AZ1/Scissors/issues"
+  },
+  "homepage": "https://github.com/John-AZ1/Scissors#readme"
+}
